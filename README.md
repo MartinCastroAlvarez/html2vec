@@ -13,10 +13,10 @@ python -m spacy download en_core_web_md
 ```
 Vectorizing HTML from the CLI
 ```bash
-python3 html2vec.py https://hippie-inheels.com/3-day-new-orleans-itinerary/
+python3 html2vec.py "https://hippie-inheels.com/3-day-new-orleans-itinerary/"
 ```
 Vectorizing HTML inside a Python script.
-```bash
+```python
 from html2vec import Html2Vec
 
 model: Html2Vec = Html2Vec()
