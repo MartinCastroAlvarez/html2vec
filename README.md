@@ -2,7 +2,7 @@
 Algorithm that converts an HTML to a vectorized object suitable for neural networks, including sequential models.
 
 ![wallpaper](/wallpaper.jpeg)
-![architecture](/archiecture.jpg)
+![architecture](/architecture.jpg)
 
 ## Instructions
 Installing dependencies.
